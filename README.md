@@ -15,3 +15,6 @@ Example (resize brush, resize stamp, rotate brush):
 ![example-1](https://user-images.githubusercontent.com/10963432/56090244-f84b3480-5e9f-11e9-91e7-c81e7b727287.gif)
 
 
+Credits
+-------------------------------------
+Full credit and a BIG THANK YOU(!!!) to the very skilled and most awesome developers at Unity who provided the Terrain Tool Samples for free for the community.
