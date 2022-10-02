@@ -31,6 +31,10 @@ Example (3d preview)
 
 Unity 2018.3+
 
+## Update
+
+Time passes by ... Unity added rotation and scaling to their a later version of their Terrain Tools
+
 Credits
 -------------------------------------
 Full credit and a BIG THANK YOU(!!!) to the very skilled and most awesome developers at Unity who provided the Terrain Tool Samples for free for the community.
